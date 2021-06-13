@@ -134,3 +134,5 @@
 34) ಪಂಚಕನ್ಯರು ಯಾರು?
 
 ಅಹಲ್ಯಾ, ದ್ರೌಪದಿ, ಕುಂತಿ, ತಾರಾ ಮತ್ತು ಮಂಡೋದರಿ
+
+[Next]({{ site.baseurl }}{% link  split2/_posts/2020-04-02-Mandodari from Ramayana ರಾಮಾಯಣದಿಂದ ಮಂದೋದರಿ.md %})
